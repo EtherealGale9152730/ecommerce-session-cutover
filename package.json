@@ -1,0 +1,1 @@
+{"scripts":{"test":"node --experimental-strip-types src/checkout_service.test.ts"},"type":"module"}
